@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kbschneider
 - 👀 Poetry, Poker , Poke 
 - 🌱 Electronic 
-- 💞️ Restful APIsss
+- 💞️ Restful APIs
 - 📫 Right HERE
 
 <!---
